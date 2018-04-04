@@ -45,8 +45,8 @@
       "path---donate-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-65cc9c721ec14bded282.js",
-      "component---src-layouts-index-js-65cc9c721ec14bded282.js.map"
+      "component---src-layouts-index-js-a0bd18be1ee726b30558.js",
+      "component---src-layouts-index-js-a0bd18be1ee726b30558.js.map"
     ],
     "component---src-pages-add-index-js": [
       "component---src-pages-add-index-js-1e41a08fbf530f05c8b9.js",
@@ -65,9 +65,9 @@
       "component---src-pages-404-js-cb2634ee5d4f0c4f5a41.js.map"
     ],
     "commons": [
-      "commons-446ca4712ac98dbd71ad.js",
+      "commons-c842e6a8b34b99045f96.js",
       "build-js-styles.css",
-      "commons-446ca4712ac98dbd71ad.js.map",
+      "commons-c842e6a8b34b99045f96.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -83,9 +83,9 @@
       "component---src-pages-commands-index-js-e9b8ee79ceb927ea80a0.js.map"
     ],
     "app": [
-      "app-7ea3f1b8633db50da693.js",
+      "app-840211ca477d72f675aa.js",
       "build-js-styles.css",
-      "app-7ea3f1b8633db50da693.js.map",
+      "app-840211ca477d72f675aa.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
