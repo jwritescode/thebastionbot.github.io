@@ -1,0 +1,100 @@
+{
+  "assetsByChunkName": {
+    "path---commands": [
+      "path---commands-a0e39f21c11f6a62c5ab.js",
+      "path---commands-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---sponsors": [
+      "path---sponsors-a0e39f21c11f6a62c5ab.js",
+      "path---sponsors-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-6043de54c414206508a0.js",
+      "component---src-pages-index-js-6043de54c414206508a0.js.map"
+    ],
+    "path---add": [
+      "path---add-a0e39f21c11f6a62c5ab.js",
+      "path---add-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---features": [
+      "path---features-a0e39f21c11f6a62c5ab.js",
+      "path---features-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-features-index-js": [
+      "component---src-pages-features-index-js-e5ae2bdc5e17ce98fc5f.js",
+      "component---src-pages-features-index-js-e5ae2bdc5e17ce98fc5f.js.map"
+    ],
+    "path---tools": [
+      "path---tools-a0e39f21c11f6a62c5ab.js",
+      "path---tools-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-donate-index-js": [
+      "component---src-pages-donate-index-js-b44107fd4bbb2e7ccd30.js",
+      "component---src-pages-donate-index-js-b44107fd4bbb2e7ccd30.js.map"
+    ],
+    "path---faq": [
+      "path---faq-a0e39f21c11f6a62c5ab.js",
+      "path---faq-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---donate": [
+      "path---donate-a0e39f21c11f6a62c5ab.js",
+      "path---donate-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-65cc9c721ec14bded282.js",
+      "component---src-layouts-index-js-65cc9c721ec14bded282.js.map"
+    ],
+    "component---src-pages-add-index-js": [
+      "component---src-pages-add-index-js-1e41a08fbf530f05c8b9.js",
+      "component---src-pages-add-index-js-1e41a08fbf530f05c8b9.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-faq-index-js": [
+      "component---src-pages-faq-index-js-3ac1324ca867bb77242b.js",
+      "component---src-pages-faq-index-js-3ac1324ca867bb77242b.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-cb2634ee5d4f0c4f5a41.js",
+      "component---src-pages-404-js-cb2634ee5d4f0c4f5a41.js.map"
+    ],
+    "commons": [
+      "commons-446ca4712ac98dbd71ad.js",
+      "build-js-styles.css",
+      "commons-446ca4712ac98dbd71ad.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-tools-index-js": [
+      "component---src-pages-tools-index-js-5f712d7becb8b53c2e08.js",
+      "component---src-pages-tools-index-js-5f712d7becb8b53c2e08.js.map"
+    ],
+    "component---src-pages-commands-index-js": [
+      "component---src-pages-commands-index-js-e9b8ee79ceb927ea80a0.js",
+      "component---src-pages-commands-index-js-e9b8ee79ceb927ea80a0.js.map"
+    ],
+    "app": [
+      "app-7ea3f1b8633db50da693.js",
+      "build-js-styles.css",
+      "app-7ea3f1b8633db50da693.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-sponsors-index-js": [
+      "component---src-pages-sponsors-index-js-8f6a33776d24b53054e1.js",
+      "component---src-pages-sponsors-index-js-8f6a33776d24b53054e1.js.map"
+    ]
+  }
+}
