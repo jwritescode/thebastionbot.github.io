@@ -45,8 +45,8 @@
       "path---donate-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-b8cc7fdd439b590ba3d4.js",
-      "component---src-layouts-index-js-b8cc7fdd439b590ba3d4.js.map"
+      "component---src-layouts-index-js-543d6be0895dba5734b0.js",
+      "component---src-layouts-index-js-543d6be0895dba5734b0.js.map"
     ],
     "component---src-pages-add-index-js": [
       "component---src-pages-add-index-js-1e41a08fbf530f05c8b9.js",
@@ -55,6 +55,10 @@
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-contributors-index-js": [
+      "component---src-pages-contributors-index-js-03850bf3db9224bc5278.js",
+      "component---src-pages-contributors-index-js-03850bf3db9224bc5278.js.map"
     ],
     "component---src-pages-faq-index-js": [
       "component---src-pages-faq-index-js-3da12c4ff39ea050e753.js",
@@ -83,10 +87,14 @@
       "component---src-pages-commands-index-js-e9b8ee79ceb927ea80a0.js.map"
     ],
     "app": [
-      "app-840211ca477d72f675aa.js",
+      "app-0763cb7115c84f5f8799.js",
       "build-js-styles.css",
-      "app-840211ca477d72f675aa.js.map",
+      "app-0763cb7115c84f5f8799.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---contributors": [
+      "path---contributors-a0e39f21c11f6a62c5ab.js",
+      "path---contributors-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
