@@ -25,16 +25,16 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-features-index-js": [
-      "component---src-pages-features-index-js-a3df0d73e72329212184.js",
-      "component---src-pages-features-index-js-a3df0d73e72329212184.js.map"
+      "component---src-pages-features-index-js-e1a87d47d87478cdc111.js",
+      "component---src-pages-features-index-js-e1a87d47d87478cdc111.js.map"
     ],
     "path---tools": [
       "path---tools-a0e39f21c11f6a62c5ab.js",
       "path---tools-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-donate-index-js": [
-      "component---src-pages-donate-index-js-b44107fd4bbb2e7ccd30.js",
-      "component---src-pages-donate-index-js-b44107fd4bbb2e7ccd30.js.map"
+      "component---src-pages-donate-index-js-05e2184ce0641a41c25a.js",
+      "component---src-pages-donate-index-js-05e2184ce0641a41c25a.js.map"
     ],
     "path---faq": [
       "path---faq-a0e39f21c11f6a62c5ab.js",
@@ -45,33 +45,33 @@
       "path---donate-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-c16ce4e2c58ff4ea175e.js",
-      "component---src-layouts-index-js-c16ce4e2c58ff4ea175e.js.map"
+      "component---src-layouts-index-js-f0d746b027c9ccbc9174.js",
+      "component---src-layouts-index-js-f0d746b027c9ccbc9174.js.map"
     ],
     "component---src-pages-add-index-js": [
-      "component---src-pages-add-index-js-1e41a08fbf530f05c8b9.js",
-      "component---src-pages-add-index-js-1e41a08fbf530f05c8b9.js.map"
+      "component---src-pages-add-index-js-dcc8527c7612003be429.js",
+      "component---src-pages-add-index-js-dcc8527c7612003be429.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-contributors-index-js": [
-      "component---src-pages-contributors-index-js-e535020e2827c8767ee9.js",
-      "component---src-pages-contributors-index-js-e535020e2827c8767ee9.js.map"
+      "component---src-pages-contributors-index-js-60fc721eaf09b3d0a2a3.js",
+      "component---src-pages-contributors-index-js-60fc721eaf09b3d0a2a3.js.map"
     ],
     "component---src-pages-faq-index-js": [
-      "component---src-pages-faq-index-js-3da12c4ff39ea050e753.js",
-      "component---src-pages-faq-index-js-3da12c4ff39ea050e753.js.map"
+      "component---src-pages-faq-index-js-d577c2c5786f01ef465b.js",
+      "component---src-pages-faq-index-js-d577c2c5786f01ef465b.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-cb2634ee5d4f0c4f5a41.js",
       "component---src-pages-404-js-cb2634ee5d4f0c4f5a41.js.map"
     ],
     "commons": [
-      "commons-c842e6a8b34b99045f96.js",
+      "commons-9368e9cab5e96a094f77.js",
       "build-js-styles.css",
-      "commons-c842e6a8b34b99045f96.js.map",
+      "commons-9368e9cab5e96a094f77.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -79,12 +79,12 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-tools-index-js": [
-      "component---src-pages-tools-index-js-5f712d7becb8b53c2e08.js",
-      "component---src-pages-tools-index-js-5f712d7becb8b53c2e08.js.map"
+      "component---src-pages-tools-index-js-bccc63a1b18faad0ac86.js",
+      "component---src-pages-tools-index-js-bccc63a1b18faad0ac86.js.map"
     ],
     "component---src-pages-commands-index-js": [
-      "component---src-pages-commands-index-js-e9b8ee79ceb927ea80a0.js",
-      "component---src-pages-commands-index-js-e9b8ee79ceb927ea80a0.js.map"
+      "component---src-pages-commands-index-js-61f045a6d000efd955e2.js",
+      "component---src-pages-commands-index-js-61f045a6d000efd955e2.js.map"
     ],
     "app": [
       "app-0763cb7115c84f5f8799.js",
@@ -101,8 +101,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-sponsors-index-js": [
-      "component---src-pages-sponsors-index-js-8f6a33776d24b53054e1.js",
-      "component---src-pages-sponsors-index-js-8f6a33776d24b53054e1.js.map"
+      "component---src-pages-sponsors-index-js-428804027cf1b78b977b.js",
+      "component---src-pages-sponsors-index-js-428804027cf1b78b977b.js.map"
     ]
   }
 }
