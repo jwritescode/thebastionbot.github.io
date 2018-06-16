@@ -95,14 +95,18 @@
       "component---src-pages-commands-index-js-e7f2c52aa76ee27e7b19.js.map"
     ],
     "app": [
-      "app-4b9469d9efd1acd73ff1.js",
+      "app-99172609d45fabe14e13.js",
       "build-js-styles.css",
-      "app-4b9469d9efd1acd73ff1.js.map",
+      "app-99172609d45fabe14e13.js.map",
       "build-js-styles.css.map"
     ],
     "path---contributors": [
       "path---contributors-a0e39f21c11f6a62c5ab.js",
       "path---contributors-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-testimonials-index-js": [
+      "component---src-pages-testimonials-index-js-a4aa33bbac45ed4cfc76.js",
+      "component---src-pages-testimonials-index-js-a4aa33bbac45ed4cfc76.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
@@ -111,6 +115,10 @@
     "component---src-pages-sponsors-index-js": [
       "component---src-pages-sponsors-index-js-650513888dc09e44b1aa.js",
       "component---src-pages-sponsors-index-js-650513888dc09e44b1aa.js.map"
+    ],
+    "path---testimonials": [
+      "path---testimonials-a0e39f21c11f6a62c5ab.js",
+      "path---testimonials-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
