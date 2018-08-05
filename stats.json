@@ -9,8 +9,8 @@
       "path---sponsors-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-507e1aa2c5a626343a82.js",
-      "component---src-pages-index-js-507e1aa2c5a626343a82.js.map"
+      "component---src-pages-index-js-a870e550474010975d12.js",
+      "component---src-pages-index-js-a870e550474010975d12.js.map"
     ],
     "path---add": [
       "path---add-a0e39f21c11f6a62c5ab.js",
@@ -45,8 +45,8 @@
       "path---donate-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-229ed161abfe88e4147f.js",
-      "component---src-layouts-index-js-229ed161abfe88e4147f.js.map"
+      "component---src-layouts-index-js-15a2dbed7869ba3fe641.js",
+      "component---src-layouts-index-js-15a2dbed7869ba3fe641.js.map"
     ],
     "component---src-pages-add-index-js": [
       "component---src-pages-add-index-js-421f50d7fac37785f8b6.js",
@@ -73,9 +73,9 @@
       "component---src-pages-404-js-cb2634ee5d4f0c4f5a41.js.map"
     ],
     "commons": [
-      "commons-1b39f7214e72659cd04f.js",
+      "commons-297e57d60098d66da02a.js",
       "build-js-styles.css",
-      "commons-1b39f7214e72659cd04f.js.map",
+      "commons-297e57d60098d66da02a.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
