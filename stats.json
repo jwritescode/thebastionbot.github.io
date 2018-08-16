@@ -33,8 +33,8 @@
       "path---tools-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-donate-index-js": [
-      "component---src-pages-donate-index-js-201837b198f7a30d6c35.js",
-      "component---src-pages-donate-index-js-201837b198f7a30d6c35.js.map"
+      "component---src-pages-donate-index-js-5ca5542cdd297f281cb4.js",
+      "component---src-pages-donate-index-js-5ca5542cdd297f281cb4.js.map"
     ],
     "path---faq": [
       "path---faq-a0e39f21c11f6a62c5ab.js",
@@ -49,20 +49,24 @@
       "path---donate-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-361630a5ef06cece25d8.js",
-      "component---src-layouts-index-js-361630a5ef06cece25d8.js.map"
+      "component---src-layouts-index-js-e5c057f452dee7f1e257.js",
+      "component---src-layouts-index-js-e5c057f452dee7f1e257.js.map"
     ],
     "component---src-pages-add-index-js": [
       "component---src-pages-add-index-js-421f50d7fac37785f8b6.js",
       "component---src-pages-add-index-js-421f50d7fac37785f8b6.js.map"
+    ],
+    "component---src-pages-donors-index-js": [
+      "component---src-pages-donors-index-js-f2456156a788a2981d32.js",
+      "component---src-pages-donors-index-js-f2456156a788a2981d32.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-contributors-index-js": [
-      "component---src-pages-contributors-index-js-4240c88b42b24bde8a7c.js",
-      "component---src-pages-contributors-index-js-4240c88b42b24bde8a7c.js.map"
+      "component---src-pages-contributors-index-js-a03e1669ba18a8ad090f.js",
+      "component---src-pages-contributors-index-js-a03e1669ba18a8ad090f.js.map"
     ],
     "component---src-pages-branding-index-js": [
       "component---src-pages-branding-index-js-521d881be313c1e5938d.js",
@@ -77,10 +81,14 @@
       "component---src-pages-404-js-cb2634ee5d4f0c4f5a41.js.map"
     ],
     "commons": [
-      "commons-9779c898bd21f8ada315.js",
+      "commons-5511162eff20599b2cc5.js",
       "build-js-styles.css",
-      "commons-9779c898bd21f8ada315.js.map",
+      "commons-5511162eff20599b2cc5.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---donors": [
+      "path---donors-a0e39f21c11f6a62c5ab.js",
+      "path---donors-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -95,13 +103,13 @@
       "path---branding-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-commands-index-js": [
-      "component---src-pages-commands-index-js-6c3439522f05ef63c8e1.js",
-      "component---src-pages-commands-index-js-6c3439522f05ef63c8e1.js.map"
+      "component---src-pages-commands-index-js-601e7a12a21c8334431a.js",
+      "component---src-pages-commands-index-js-601e7a12a21c8334431a.js.map"
     ],
     "app": [
-      "app-00d992145883b5c19401.js",
+      "app-359f4acf705a0e562a4b.js",
       "build-js-styles.css",
-      "app-00d992145883b5c19401.js.map",
+      "app-359f4acf705a0e562a4b.js.map",
       "build-js-styles.css.map"
     ],
     "path---contributors": [
@@ -109,8 +117,8 @@
       "path---contributors-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-followers-index-js": [
-      "component---src-pages-followers-index-js-b55772ca4a40758da95c.js",
-      "component---src-pages-followers-index-js-b55772ca4a40758da95c.js.map"
+      "component---src-pages-followers-index-js-ebed8bb0491eab08a484.js",
+      "component---src-pages-followers-index-js-ebed8bb0491eab08a484.js.map"
     ],
     "component---src-pages-testimonials-index-js": [
       "component---src-pages-testimonials-index-js-a4aa33bbac45ed4cfc76.js",
